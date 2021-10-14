@@ -1,2 +1,3 @@
-# libft
+## LIBFT
+
 42 LIBFT PROJECT
